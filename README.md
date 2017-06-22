@@ -1,0 +1,2 @@
+# wikidata
+wikidata.jpのページ用
